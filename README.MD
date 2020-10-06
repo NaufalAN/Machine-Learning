@@ -1,3 +1,3 @@
 # Machine Learning
 
-Repo was i create while learn ML
+Repo was i create when learning ML
